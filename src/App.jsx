@@ -7,6 +7,7 @@ function App() {
   return (
     <>
       <p><b>a * b = {multiply(a, b)}</b></p>
+      <p>hello</p>
     </>
   );
 }
